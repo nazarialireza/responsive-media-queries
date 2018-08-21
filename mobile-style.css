@@ -103,11 +103,20 @@ Tags: Smartphones, iPads, iPads 3, iPhone 4, iPhone 5, iPhone 6, iPhone 6+, Sams
 	/* Styles */
 }
 
-/* Samsung Galaxy S5 ----------- */
+/* Samsung Galaxy S5, S6, S6+, S7, S7+ ----------- */
 @media only screen and (min-device-width: 360px) and (max-device-height: 640px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 3){
 	/* Styles */
 }
 
 @media only screen and (min-device-width: 360px) and (max-device-height: 640px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 3){
+	/* Styles */
+}
+
+/* Samsung Galaxy S8, S8+, S9, S9+ ----------- */
+@media only screen and (min-device-width: 360px) and (max-device-height: 740px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 3){
+	/* Styles */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-height: 740px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 3){
 	/* Styles */
 }
