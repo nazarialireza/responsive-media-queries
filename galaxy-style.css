@@ -1,0 +1,106 @@
+/*
+Responsive Media Queries
+File Name: Mobile Style
+Style URI: /mobile-style.css
+Author: Alireza Nazari
+Author URI: http://nazari.co/
+Description: Ready to use media querises for mobile style
+Version: 1.0.0
+Tags: Samsung Galaxy S2, Samsung Galaxy S3, Samsung Galaxy S4 , Samsung Galaxy S5, Samsung Galaxy S6, Samsung Galaxy S7, Samsung Galaxy S8, Samsung Galaxy S9
+*/
+
+/* Samsung Galaxy S2 | 480×800 pixels ----------- */
+/* Portrait and Landscape */
+@media screen and (device-width: 320px) and (device-height: 533px) and (-webkit-device-pixel-ratio: 1.5){
+	/* Styles */
+}
+
+/* Landscape */
+@media only screen and (min-device-width: 320px) and (max-device-height: 533px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 1.5){
+	/* Styles */
+}
+
+/* Portrait */
+@media only screen and (min-device-width: 320px) and (max-device-height: 533px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 1.5){
+	/* Styles */
+}
+
+/* Samsung Galaxy S3 | 720x1280 pixels ----------- */
+/* Portrait and Landscape */
+@media screen and (device-width: 320px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 2){
+	/* Styles */
+}
+
+/* Landscape */
+@media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 2){
+	/* Styles */
+}
+
+/* Portrait */
+@media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 2){
+	/* Styles */
+}
+
+/* Samsung Galaxy S4, S5 | 1080x1920 pixels ----------- */
+/* Portrait and Landscape */
+@media screen and (device-width: 360px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 3) {
+	/* Styles */
+}
+
+/* Landscape */
+@media only screen and (min-device-width: 360px) and (max-device-height: 640px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 3) {
+	/* Styles */
+}
+
+/* Portrait */
+@media only screen and (min-device-width: 360px) and (max-device-height: 640px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 3) {
+	/* Styles */
+}
+
+/* Samsung Galaxy S5 mini | 720x1280 pixels ----------- */
+/* Portrait and Landscape */
+@media screen and (device-width: 211px) and (device-height: 376px) and (-webkit-device-pixel-ratio: 3.4) {
+	/* Styles */
+}
+
+/* Landscape */
+@media only screen and (min-device-width: 211px) and (max-device-height: 376px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 3.4) {
+	/* Styles */
+}
+
+/* Portrait */
+@media only screen and (min-device-width: 211px) and (max-device-height: 376px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 3.4) {
+	/* Styles */
+}
+
+/* Samsung Galaxy S6, S6+, S7, S7+ | 1440×2560 pixels ----------- */
+/* Portrait and Landscape */
+@media screen and (device-width: 360px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 4) {
+	/* Styles */
+}
+
+/* Landscape */
+@media only screen and (min-device-width: 360px) and (max-device-height: 640px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 4) {
+	/* Styles */
+}
+
+/* Portrait */
+@media only screen and (min-device-width: 360px) and (max-device-height: 640px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 4) {
+	/* Styles */
+}
+
+/* Samsung Galaxy S8, S8+, S9, S9+ | 1440x2960 pixels ----------- */
+/* Portrait and Landscape */
+@media screen and (device-width: 360px) and (device-height: 740px) and (-webkit-device-pixel-ratio: 4) {
+	/* Styles */
+}
+
+/* Landscape */
+@media only screen and (min-device-width: 360px) and (max-device-height: 740px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 4) {
+	/* Styles */
+}
+
+/* Portrait */
+@media only screen and (min-device-width: 360px) and (max-device-height: 740px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 4) {
+	/* Styles */
+}

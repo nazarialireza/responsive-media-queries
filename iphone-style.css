@@ -1,0 +1,90 @@
+/*
+Responsive Media Queries
+File Name: Mobile Style
+Style URI: /mobile-style.css
+Author: Alireza Nazari
+Author URI: http://nazari.co/
+Description: Ready to use media querises for mobile style
+Version: 1.0.0
+Tags: iPads 3, iPhone 4, iPhone 5, iPhone 6, iPhone 6+
+*/
+
+/* iPhone 4, 4S | 640×960 pixels ----------- */
+/* Portrait and Landscape */
+@media screen and (device-width : 320px) and (device-width : 480px) and (-webkit-min-device-pixel-ratio : 2) {
+	/* Styles */
+}
+
+/* Landscape */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) and (orientation : landscape) and (-webkit-min-device-pixel-ratio : 2) {
+	/* Styles */
+}
+
+/* Portrait */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) and (orientation : portrait) and (-webkit-min-device-pixel-ratio : 2) {
+	/* Styles */
+}
+
+/* iPhone 5, 5S, 5C, SE | 640×1136 pixels ----------- */
+/* Portrait and Landscape */
+@media screen and (device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2){
+	/* Styles */
+}
+
+/* Landscape */
+@media only screen and (min-device-width: 320px) and (max-device-height: 568px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 2){
+	/* Styles */
+}
+
+/* Portrait */
+@media only screen and (min-device-width: 320px) and (max-device-height: 568px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 2){
+	/* Styles */
+}
+
+/* iPhone 6, 7, 8 | 750x1334 pixels ----------- */
+/* Portrait and Landscape */
+@media screen and (device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2){
+	/* Styles */
+}
+
+/* Landscape */
+@media only screen and (min-device-width: 375px) and (max-device-height: 667px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 2){
+	/* Styles */
+}
+
+/* Portrait */
+@media only screen and (min-device-width: 375px) and (max-device-height: 667px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 2){
+	/* Styles */
+}
+
+/* iPhone 6+ , 7+, 8+ | 1080x1920 pixels ----------- */
+/* Portrait and Landscape */
+@media screen and (device-width: 439px) and (device-height: 777px) and (-webkit-device-pixel-ratio: 2.47) {
+	/* Styles */
+}
+
+/* Landscape */
+@media only screen and (min-device-width: 439px) and (max-device-height: 777px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 2.47){
+	/* Styles */
+}
+
+/* Portrait */
+@media only screen and (min-device-width: 439px) and (max-device-height: 777px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 2.47){
+	/* Styles */
+}
+
+/* iPhone X | 1125x2436 pixels ----------- */
+/* Portrait and Landscape */
+@media screen and (device-width: 375px) and (device-height: 812px)  and (-webkit-device-pixel-ratio: 3) {
+	/* Styles */
+}
+
+/* Landscape */
+@media only screen and (min-device-width: 375px) and (max-device-height: 812px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 3){
+	/* Styles */
+}
+
+/* Portrait */
+@media only screen and (min-device-width: 375px) and (max-device-height: 812px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 3){
+	/* Styles */
+}
