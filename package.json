@@ -1,7 +1,10 @@
 {
-  "name": "responsive",
-  "version": "1.0.0",
+  "name": "@nazarialireza/responsive",
+  "version": "0.1.0",
   "description": "CSS Responsive media queries for mobile displays.",
+  "repository": {
+    "url": "https://github.com/nazarialireza/responsive-media-queries.git"
+  },
   "main": "index.js",
   "scripts": {
     "serve": "serve ./dist",
