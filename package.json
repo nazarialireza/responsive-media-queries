@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "CSS Responsive media queries for mobile displays.",
   "repository": {
-    "url": "https://github.com/nazarialireza/responsive-media-queries.git"
+    "url": "https://github.com/nazaridotco/responsive-media-queries.git"
   },
   "main": "index.js",
   "scripts": {
